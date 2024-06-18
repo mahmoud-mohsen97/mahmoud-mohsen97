@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Mohsen Atef</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Mohsen</h1>
 <h3 align="center">I am passionate about data and believe in AI's power to improve people's lives.</h3>
 
-- 👩‍💻 I'm currently an AI Engineer at AIM Technologies
+- 👩‍💻 I'm currently an AI Engineer at **AIM Technologies**
  
 - 👩‍🎓 I joined 9-months AI & ML track at **Information Technology Institute (ITI)**
 
