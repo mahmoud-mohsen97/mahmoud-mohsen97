@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mohsen</h1>
 <h3 align="center">I am passionate about data and believe in AI's power to improve people's lives.</h3>
 
-- 👩‍💻 I'm currently an AI Engineer at **AIM Technologies**
+- 👩‍💻 I'm currently a Full-stack AI Engineer at **AIM Technologies**
  
 - 👩‍🎓 I joined 9-months AI & ML track at **Information Technology Institute (ITI)**
 
 - 📫 How to reach me **m.mohsen6497@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1R34GB1cMUeW_HpClXKnGcoQHYzduIdmM/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zbfP-po2lEUC4cT8_bJH33fXsZCCMDNn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
